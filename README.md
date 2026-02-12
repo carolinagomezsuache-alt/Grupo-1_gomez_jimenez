@@ -36,6 +36,3 @@ Desarrollar un sistema de software que permita automatizar procesos mediante her
 - Herramientas de simulación  
 - Sistemas de control  
 
----
-
-## 📂 Estructura del Proyecto
